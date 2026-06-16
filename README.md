@@ -1,10 +1,10 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4F46E5,100:06B6D4&text=Dhanush%20Kumar&fontSize=55&fontAlignY=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4F46E5,100:06B6D4&text=Dhanaraj%20Malage&fontSize=55&fontAlignY=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Dhanush Kumar</h1>
+<h1 align="center">Hi 👋, I'm Dhanaraj Malage </h1>
 
 <h3 align="center">
 Full Stack Developer • Open Source Enthusiast • Problem Solver
