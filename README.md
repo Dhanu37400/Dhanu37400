@@ -1,10 +1,10 @@
-<!-- Banner -->
+<!-- ========================= HEADER ========================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4F46E5,100:06B6D4&text=Dhanaraj%20Malage&fontSize=55&fontAlignY=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Dhanaraj Malage </h1>
+<h1 align="center">Hi 👋, I'm Dhanaraj Malage</h1>
 
 <h3 align="center">
 Full Stack Developer • Open Source Enthusiast • Problem Solver
@@ -15,12 +15,14 @@ Full Stack Developer • Open Source Enthusiast • Problem Solver
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhanu37400&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <a href="https://github.com/Dhanu37400">
+    <img src="https://komarev.com/ghpvc/?username=Dhanu37400&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 * 🔭 Currently working on Full Stack Web Applications
 * 🌱 Learning Cloud Computing, DevOps & System Design
@@ -31,41 +33,41 @@ Full Stack Developer • Open Source Enthusiast • Problem Solver
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=javascript,python,java,c,cpp" />
 </p>
 
 ### Frontend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
 </p>
 
 ### Backend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Database
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
 ### Tools & Platforms
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,firebase" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhanu37400&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -73,12 +75,12 @@ Full Stack Developer • Open Source Enthusiast • Problem Solver
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanu37400&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Dhanu37400&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanu37400&theme=tokyo-night" />
@@ -86,7 +88,7 @@ Full Stack Developer • Open Source Enthusiast • Problem Solver
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dhanu37400&theme=tokyonight&row=1&column=7&no-frame=true" />
@@ -94,53 +96,53 @@ Full Stack Developer • Open Source Enthusiast • Problem Solver
 
 ---
 
-## 🔥 Featured Projects
+# 🔥 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-<a href="https://github.com/Dhanu37400">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanu37400&repo=YOUR_REPO_NAME&theme=tokyonight" />
-</a>
-</td>
+<!-- Replace repo names below with your actual repositories -->
 
-<td width="50%">
-<a href="https://github.com/Dhanu37400">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanu37400&repo=YOUR_REPO_NAME_2&theme=tokyonight" />
-</a>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Dhanu37400">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanu37400&repo=Portfolio&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/Dhanu37400">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanu37400&repo=FullStackProject&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Dhanu37400" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/dhanaraj-malage-8b684235b" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</p>
 
 <p align="center">
 
 <a href="https://github.com/Dhanu37400">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://img.shields.io/badge/GitHub-Dhanu37400-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://portfolio-link.com">
-<img src="https://skillicons.dev/icons?i=webflow" />
+<a href="https://linkedin.com/in/dhanaraj-malage-8b684235b">
+<img src="https://img.shields.io/badge/LinkedIn-Dhanaraj%20Malage-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
-> Enable GitHub Actions and add the snake workflow to generate this automatically.
+> Create a GitHub Action later to generate this automatically.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dhanu37400/Dhanu37400/output/github-contribution-grid-snake-dark.svg" />
@@ -148,7 +150,24 @@ Full Stack Developer • Open Source Enthusiast • Problem Solver
 
 ---
 
-## 💭 Developer Quote
+# 💻 Coding Activity
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhanu37400&theme=tokyonight" />
+</p>
+
+---
+
+# 📋 GitHub Profile Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhanu37400&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dhanu37400&theme=tokyonight" />
+</p>
+
+---
+
+# 💭 Developer Quote
 
 <p align="center">
 <i>"Code is not just about solving problems; it's about creating possibilities."</i>
